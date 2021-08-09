@@ -1,0 +1,2 @@
+# BlockChainBasedCertificateRepository
+In this project we developed the project is for storing mark sheets and certiﬁcates in block chain for particular institutions because storing mark sheets in traditional database have security issues. As data is stored in block chain as Hash value, a series of cryptographic solutions are proposed to resolve the tampering establishing a secure federated identiﬁcation to conﬁrm the identity of the issuing institution.  
